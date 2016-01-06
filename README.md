@@ -2,6 +2,8 @@ java email crawler
 
 to compile:
 in terminal, navigate to the /src/ folder and type "javac Crawler.java"
+
+
 to run:
 in terminal, navigate to the /src/ folder and type "java Crawler [website]" where [website] is replaced by the site you wish to crawl (in simple format, i.e. do not include http://)
 
